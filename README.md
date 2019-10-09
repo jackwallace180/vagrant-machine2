@@ -1,4 +1,4 @@
-# vagrant :taco:
+# vagrant :taco: :bread: :bacon:
 
 ## git and branching
 
